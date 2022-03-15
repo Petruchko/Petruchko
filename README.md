@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Peter
 - 👀 I’m interested in Python, Data Science
-- 🌱 I’m currently learning Python, Data Science
 - 📫 How to reach me Petrucho#3398 Discord
 
 <!---
