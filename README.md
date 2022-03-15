@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Petruchko
+- 👋 Hi, I’m Peter
 - 👀 I’m interested in Python, Data Science
 - 🌱 I’m currently learning Python, Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Petrucho#3398 DIscord
+- 📫 How to reach me Petrucho#3398 Discord
 
 <!---
 Petruchko/Petruchko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
