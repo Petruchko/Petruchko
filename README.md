@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter
-- 👀 I’m interested in Python, Data Science
+- 👀 I’m interested in Python
 - 📫 How to reach me Petrucho#3398 Discord
 
 <!---
